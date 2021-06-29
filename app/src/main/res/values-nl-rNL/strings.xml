@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Poop Thoughts</string>
+    <string name="text_heading">Poop Thoughts</string>
+    <string name="btn_start">Start</string>
+    <string name="text_heading2">Schrijf een gedachte op die je hebt tijdens het poepen.</string>
+    <string name="btn_exit">Stop</string>
+    <string name="btn_settings">Instellingen</string>
+    <string name="text_nameheading">Wat is je naam?</string>
+    <string name="edit_name">Your name..</string>
+    <string name="btn_nextname">Volgende</string>
+    <string name="placeholderText">placeholder</string>
+    <string name="text_createThought">Schrijf een Poop Thought op. Iets wat je in gedachte hebt.</string>
+    <string name="btn_create">Plaats je Poop Thought</string>
+    <string name="btn_showall">Toon alles</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="btn_back">Back</string>
+    <string name="text_showAllText">Lees hier alle poop thoughts.</string>
+    <string name="text_quoteheading">Willekeurige poop thought.</string>
+</resources>

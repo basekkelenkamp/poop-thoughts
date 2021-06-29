@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Poop Thoughts</string>
+    <string name="text_heading">Poop Thoughts</string>
+    <string name="btn_start">Start</string>
+    <string name="text_heading2">Write down any thoughts you have while doing your business.</string>
+    <string name="btn_exit">Exit</string>
+    <string name="btn_settings">Settings</string>
+    <string name="text_nameheading">What is your name?</string>
+    <string name="edit_name">Your name..</string>
+    <string name="btn_nextname">Next</string>
+    <string name="placeholderText">placeholder</string>
+    <string name="text_createThought">Write a poop thought. Anything you have on your mind.</string>
+    <string name="btn_create">Post your Poop Thought</string>
+    <string name="btn_showall">Show all</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="btn_back">Back</string>
+    <string name="text_showAllText">Read all poop thoughts here.</string>
+    <string name="text_quoteheading">Random poop thought.</string>
+</resources>
